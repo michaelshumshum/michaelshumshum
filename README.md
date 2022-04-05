@@ -1,4 +1,14 @@
 <h1 align="center" font-weight="bold">i like automating things</h1>
+<div align="center" style="text-align: center">
+  <img style="width:1em;height:1em" src="https://freepikpsd.com/file/2019/10/discord-icon-png-5-Transparent-Images-1.png" />
+ <a href="https://www.discord.com/users/359323053005733889">michaelshumshum#9663</a>
+ <br>
+  <img style="width:1em;height:1em" src="https://brandslogos.com/wp-content/uploads/thumbs/reddit-icon-logo-vector.svg" />
+ <a href="https://www.reddit.com/u/RightRespect">u/RightRespect#9663</a>
+ <br>
+  <img style="width:1em;height:1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
+ <a href="https://www.steamcommunity.com/id/michaelshumshum">nut man</a>
+</div>
 <p align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=michaelshumshum&border_radius=20&bg_color=45,754728,366673&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" />
