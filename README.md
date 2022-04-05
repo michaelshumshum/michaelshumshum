@@ -4,7 +4,7 @@
  <a href="https://www.discord.com/users/359323053005733889">michaelshumshum#9663</a>
  <br>
   <img style="width:1em;height:1em" src="https://brandslogos.com/wp-content/uploads/thumbs/reddit-icon-logo-vector.svg" />
- <a href="https://www.reddit.com/u/RightRespect">u/RightRespect#9663</a>
+ <a href="https://www.reddit.com/u/RightRespect">u/RightRespect</a>
  <br>
   <img style="width:1em;height:1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
  <a href="https://www.steamcommunity.com/id/michaelshumshum">nut man</a>
