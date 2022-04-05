@@ -7,7 +7,10 @@
  <a href="https://www.reddit.com/u/RightRespect">u/RightRespect</a>
  <br>
   <img style="width:1em;height:1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" />
- <a href="https://www.steamcommunity.com/id/michaelshumshum">nut man</a>
+   <a href="https://www.steamcommunity.com/id/michaelshumshum">nut man</a>
+  <br>
+  <img style="width:1em;height:1em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />
+   <a href="https://www.linkedin.com/in/michael-shum-58a302232/">Michael Shum</a>
 </div>
 <p align="center">
   <br>
