@@ -15,11 +15,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelshumshum&layout=compact&langs_count=10&border_radius=20&bg_color=0,754728,366673&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michaelshumshum&layout=compact&langs_count=10&border_radius=20&bg_color=0,754728,366673&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
-  <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#17](https://github.com/michaelshumshum/r-placer/issues/17) in [michaelshumshum/r-placer](https://github.com/michaelshumshum/r-placer)
-2. 🗣 Commented on [#17](https://github.com/michaelshumshum/r-placer/issues/17) in [michaelshumshum/r-placer](https://github.com/michaelshumshum/r-placer)
-3. 🗣 Commented on [#17](https://github.com/michaelshumshum/r-placer/issues/17) in [michaelshumshum/r-placer](https://github.com/michaelshumshum/r-placer)
-4. ❗️ Closed issue [#18](https://github.com/michaelshumshum/r-placer/issues/18) in [michaelshumshum/r-placer](https://github.com/michaelshumshum/r-placer)
-5. 🗣 Commented on [#426](https://github.com/rdeepak2002/reddit-place-script-2022/issues/426) in [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022)
-  <!--END_SECTION:activity-->
+  <br>
 </p>
