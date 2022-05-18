@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
   <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=michaelshumshum&theme=oldie&no-frame=true&no-bg=true">
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=michaelshumshum&border_radius=20&bg_color=45,754728,366673&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelshumshum&layout=compact&langs_count=10&border_radius=20&bg_color=0,754728,366673&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
