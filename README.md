@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white">
   <img src="https://img.shields.io/badge/zsh-000000?style=for-the-badge&logo=zsh&logoColor=white">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelshumshum&border_radius=20&bg_color=45,754728,366673&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" />
+  <img src="https://wakatime-png.shumshum.dev/api?username=michaelshumshum&border_radius=20&bg_color=45,754728,366673&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&show_icons=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelshumshum&layout=compact&langs_count=10&border_radius=20&bg_color=0,754728,366673&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
-  <br>
+  <img src="https://wakatime-png.shumshum.dev/api/top-langs/?username=michaelshumshum&layout=compact&langs_count=10&border_radius=20&bg_color=0,754728,366673&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
+  <hr>
+  <img src="https://wakatime.com/share/@michaelshumshum/105cac47-f8e6-4940-9586-08110cffdecf.png"/>
+  <img src="https://wakatime.com/share/@michaelshumshum/1c63abc3-7175-467b-bdfb-0235269676cd.png"/>
 </div>
