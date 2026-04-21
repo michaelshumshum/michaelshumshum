@@ -17,6 +17,6 @@
   <br>
   <img src="https://wakatime-png.shumshum.dev/api/top-langs/?username=michaelshumshum&layout=compact&langs_count=10&border_radius=20&bg_color=0,754728,366673&title_color=FFFFFF&text_color=FFFFFF&hide_border=true"/>
   <hr>
-  <img src="https://wakatime.com/share/@michaelshumshum/105cac47-f8e6-4940-9586-08110cffdecf.png"/>
+  <img src="https://wakatime.com/share/@michaelshumshum/d9ff5e41-ee11-48f2-9c2a-3e038c8579ff.svg"/>
   <img src="https://wakatime.com/share/@michaelshumshum/1c63abc3-7175-467b-bdfb-0235269676cd.png"/>
 </div>
