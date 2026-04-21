@@ -1,5 +1,6 @@
 <div align="center" style="text-align: center">
   <h1><a style="color: white" href="http://michael.shumshum.dev">michael.shumshum.dev</a></h1>
+  <a href="https://wakatime.com/@f71e702c-bcaa-4349-97ad-837a5ed1bb3f"><img src="https://wakatime.com/badge/user/f71e702c-bcaa-4349-97ad-837a5ed1bb3f.svg?style=for-the-badge&color=000000"/></a>
   <img src="https://komarev.com/ghpvc/?username=michaelshumshum&style=for-the-badge&color=000000">
   <br>
   <a href="https://github.com/michaelshumshum"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="https://www.linkedin.com/in/michael-shum-58a302232/" /></a> 
